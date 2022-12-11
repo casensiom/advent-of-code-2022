@@ -1,5 +1,5 @@
 var inputSrc = "data";
-inputSrc = "test";
+// inputSrc = "test";
 var input = document.getElementById(inputSrc).textContent;
 var solution1 = document.getElementById(inputSrc).getAttribute("solution1");
 var solution2 = document.getElementById(inputSrc).getAttribute("solution2");
