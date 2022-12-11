@@ -1,14 +1,13 @@
 # ⭐ advent-of-code-2022
-Solutions for [Advent of Code 2022](https://adventofcode.com/) in JavaScript
+Solutions for [Advent of Code 2022](https://adventofcode.com/2022) in JavaScript
 
 ## 💻 Usage
 
-I dont use node or any fancy environments. Just launch a the html file in any browser and inspect the console output.
+I dont use node or any fancy environments. Just launch the html file in any browser and inspect the console output.
 
 ## 👷 Structure
 
-There is one fodler for each daily problem, inside each folder there are two files. 
-index.html contains the data inside PRE blocks, also loads the index.js file that actually solves the problem and dumps the results to the console.
+There is a folder for each daily problem, inside each folder there are two files, the index.html file contains the data inside PRE blocks to maintain the format, it also loads the index.js file that is the one that really solves the problem and dumps the results to the console.
 
 ## ⚖️ LICENSE
 
